@@ -81,5 +81,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-chkabeer20@gmail.com
-Project Link: [https://github.com/kabeeryosaf/Candy-Crush-Assembly-Language-x86](https://github.com/kabeeryosaf/Candy-Crush-Assembly-Language-x86)
+Mail - chkabeer20@gmail.com
+
+Project Link - [https://github.com/kabeeryosaf/Candy-Crush-Assembly-Language-x86](https://github.com/kabeeryosaf/Candy-Crush-Assembly-Language-x86)
