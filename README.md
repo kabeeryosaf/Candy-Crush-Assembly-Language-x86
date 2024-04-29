@@ -36,16 +36,24 @@ To get a local copy up and running, follow these simple steps.
 Install using the terminal, and run using DOSBox with NASM in the main directory
 
 1. Clone the repo
-   git clone https://github.com/yourusername/candy-crush-assembly.git
+```
+git clone https://github.com/yourusername/candy-crush-assembly.git
+```
 
 2. Navigate to the project directory
-   cd candy-crush-assembly
+```
+cd candy-crush-assembly
+```
    
 3. Compile the Assembly code
-   nasm Candy-Crush-NASM.asm -o Candy-Crush-NASM.com
+```
+nasm Candy-Crush-NASM.asm -o Candy-Crush-NASM.com
+```
    
 4. Run the game
-   Candy-Crush-NASM.asm 
+```
+Candy-Crush-NASM.asm 
+```
 
 ## Usage
 
